@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder=""
+  LastImport="2019-11-04T15:04:27.6781882+01:00">
+  <Files>
+    <Url
+      Source="../../Glasses 3 API documentation.docx"
+      AbsoluteSource="file:///C:/Users/MG3510/Documents/My Projects/Glasses 31/Glasses 3 API documentation.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Introduction_2.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Authentication_1.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Responses_1.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Rate limit_1.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Webrtc_1.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/create_1.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Webrtc play_1.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Webrtc delete_1.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Webrtc child added_1.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Method name_14.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Method name_15.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Method name_16.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Method name_17.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Method name_18.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Method name_19.htm"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Method name_20.htm"
+      TimeStamp="2019-11-04 15:04:22" />
+    <Url
+      Source="../../Content/Method name_21.htm"
+      TimeStamp="2019-11-04 15:04:22" />
+    <Url
+      Source="../../Content/Method name_22.htm"
+      TimeStamp="2019-11-04 15:04:22" />
+    <Url
+      Source="../../Content/Method name_23.htm"
+      TimeStamp="2019-11-04 15:04:22" />
+    <Url
+      Source="../../Content/Method name_24.htm"
+      TimeStamp="2019-11-04 15:04:22" />
+    <Url
+      Source="../../Content/Method name_25.htm"
+      TimeStamp="2019-11-04 15:04:22" />
+    <Url
+      Source="../../Content/Method name_26.htm"
+      TimeStamp="2019-11-04 15:04:22" />
+    <Url
+      Source="../../Content/Method name_27.htm"
+      TimeStamp="2019-11-04 15:04:22" />
+    <Url
+      Source="../TOCs/Glasses 3 API documentation1.fltoc"
+      TimeStamp="2019-11-04 15:04:21" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Glasses 3 API documentation1.css"
+      TimeStamp="2019-11-04 15:04:21" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading1"
+      Style="Word" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading2"
+      Style="Word" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading3"
+      Style="Word" />
+    <Map
+      From="List Paragraph"
+      To="p.ListParagraph"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+</MsWordImport>

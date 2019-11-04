@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Overview" Link="/Content/Introduction_1.htm" />
+    <TocEntry Title="Authentication" Link="/Content/Authentication.htm" />
+    <TocEntry Title="Responses" Link="/Content/Responses.htm" />
+    <TocEntry Title="Rate limit" Link="/Content/Rate limit.htm" />
+    <TocEntry Title="Webrtc" Link="/Content/Webrtc.htm" />
+    <TocEntry Title="!create" Link="/Content/create.htm" />
+    <TocEntry Title="Webrtc play" Link="/Content/Webrtc play.htm" />
+    <TocEntry Title="Webrtc delete" Link="/Content/Webrtc delete.htm" />
+    <TocEntry Title="Webrtc child-added" Link="/Content/Webrtc child added.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name_1.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name_2.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name_3.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name_4.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name_5.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name_6.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name_7.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name_8.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name_9.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name_10.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name_11.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name_12.htm" />
+    <TocEntry Title="Method name" Link="/Content/Method name_13.htm" />
+</CatapultToc>
